@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 600,
+      "repeat-delay": 500,
       "messages": [
         "Homiaki.aternos.me:46254 - Is the best server",
         "Join our discord - https://discord.gg/R968cTvF",
