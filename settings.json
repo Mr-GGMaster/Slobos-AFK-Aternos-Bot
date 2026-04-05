@@ -29,16 +29,16 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 600,
       "messages": [
-        "Homiaki.aternos.me - Is the best server:46254",
+        "Homiaki.aternos.me:46254 - Is the best server",
         "Join our discord - https://discord.gg/R968cTvF",
         "Kept You Waiting, Huh?"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 30,
     "max-reconnect-delay": 20000
   },
   "movement": {
